@@ -16,7 +16,7 @@ dependencies:
   charts_common:
     git:
       url: https://github.com/cventech/charts.git
-      path: charts_flutter
+      path: charts_common
       ref: 05f1a1d
   # charts_common:
   #   path: ../charts_common/
